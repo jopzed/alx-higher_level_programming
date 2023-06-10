@@ -1,6 +1,6 @@
-/*
+/**
  * File: 13-is_palindrome.c
- * Auth: Mbah Nkemdinma
+ * Auth: Eyob 
  */
 
 #include "lists.h"
@@ -75,3 +75,4 @@ int is_palindrome(listint_t **head)
 
 	return (1);
 }
+
