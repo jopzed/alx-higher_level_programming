@@ -7,4 +7,3 @@ def uniq_add(my_list=[]):
         q += i
 
     return (q)
-
