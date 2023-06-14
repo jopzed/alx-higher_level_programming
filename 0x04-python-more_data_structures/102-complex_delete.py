@@ -1,4 +1,3 @@
-
 #!/usr/bin/python3
 def complex_delete(a_dictionary, price):
     list_keys = list(a_dictionary.keys())
